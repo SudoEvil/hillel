@@ -7,6 +7,5 @@ while random != "h":
     random = input("Give me 'h': ")
     random = random.lower()
     find_h = random.find("h")
-    print(find_h)
     if find_h != -1:
         break
