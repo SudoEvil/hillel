@@ -97,3 +97,5 @@ last_of_adwentures_of_tom_sawer_sentences = adwentures_of_tom_sawer_sentences[-1
 len_last_sentence = len(last_of_adwentures_of_tom_sawer_sentences)
 print(len_last_sentence)
 print(adwentures_of_tom_sawer_sentences)
+
+
